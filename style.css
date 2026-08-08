@@ -195,3 +195,17 @@ footer {
     }
 
 }
+/* About Section */
+
+.about {
+    text-align: center;
+    padding: 80px 10%;
+    background: #0f172a;
+}
+
+.about p {
+    max-width: 800px;
+    margin: auto;
+    font-size: 20px;
+    color: #d1d5db;
+}
