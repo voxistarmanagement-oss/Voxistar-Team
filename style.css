@@ -364,3 +364,28 @@ footer {
     }
 
 }
+/* Careers Section */
+
+.careers {
+    padding: 80px 10%;
+    text-align: center;
+    background: #0f172a;
+}
+
+
+.careers > p {
+    max-width: 800px;
+    margin: 20px auto 40px;
+}
+
+
+.career-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.careers button {
+    margin-top: 40px;
+}
