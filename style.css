@@ -209,3 +209,34 @@ footer {
     font-size: 20px;
     color: #d1d5db;
 }
+ /* Features Section */
+
+.features {
+    padding: 80px 10%;
+    text-align: center;
+}
+
+.feature-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 280px;
+    margin: 15px;
+    background: #111827;
+    padding: 30px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    background: #1e293b;
+}
+
+.card h3 {
+    color: #a78bfa;
+    margin-bottom: 15px;
+}
