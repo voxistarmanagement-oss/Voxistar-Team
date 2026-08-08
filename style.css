@@ -408,3 +408,18 @@ footer {
     color: #d1d5db;
     margin: 15px;
 }
+/* Footer */
+
+footer {
+    background: #050505;
+    padding: 40px 20px;
+    text-align: center;
+    color: #9ca3af;
+}
+
+
+footer h3 {
+    color: #a78bfa;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
