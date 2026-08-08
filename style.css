@@ -240,3 +240,16 @@ footer {
     color: #a78bfa;
     margin-bottom: 15px;
 }
+/* Teams Section */
+
+.teams {
+    padding: 80px 10%;
+    text-align: center;
+    background: #080b16;
+}
+
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
