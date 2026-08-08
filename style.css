@@ -73,6 +73,11 @@ section h2 {
     color: #a78bfa;
 }
 
+.logo {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
 /* Cards */
 .card {
     background: #111827;
